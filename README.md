@@ -10,5 +10,5 @@ This repository contains
    
 # How to download?
  - Go to Releases
-
+ - or (Click!)[https://github.com/miatoll/jginyue-b650i-night-devil-drivers/releases/tag/Release]
 
