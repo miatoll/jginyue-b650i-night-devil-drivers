@@ -10,5 +10,5 @@ This repository contains
    
 # How to download?
  - Go to Releases
- - or [(Click!)][(https://github.com/miatoll/huananzhi-x99-qd4-drivers/blob/main/README-ru.md](https://github.com/miatoll/jginyue-b650i-night-devil-drivers/releases/tag/Release)
+ - or [Click here!](https://github.com/miatoll/jginyue-b650i-night-devil-drivers/releases/tag/Release)
  
